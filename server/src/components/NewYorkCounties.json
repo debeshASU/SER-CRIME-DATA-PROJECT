@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "BROOKLYN" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.9442, 40.6782]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "MANHATTAN" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.9712, 40.7831]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "QUEENS" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.869720, 40.734470]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "STATEN ISLAND" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.151535, 40.579021]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "BRONX" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.865433, 40.837048]
+        }
+      }
+    ]
+  }
+  

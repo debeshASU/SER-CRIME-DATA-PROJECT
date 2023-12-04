@@ -1,0 +1,33 @@
+.names {
+    position: relative;
+    text-align: center;
+    color: white;
+    background-image: url('https://d1n0c1ufntxbvh.cloudfront.net/photo/70cedeef/80002/740x/');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 580px; 
+}
+
+.names-container {
+    background: rgba(0, 0, 0, 0.7); 
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left; 
+    margin-right: 20px; 
+    height: 250px;
+}
+
+.names-container h1, .names-container p {
+    margin: 10px 0;
+}
+
+.names-container h1 {
+    font-size: 1.5em; 
+}
+
+.names-container p {
+    font-size: 1.1em; 
+}
